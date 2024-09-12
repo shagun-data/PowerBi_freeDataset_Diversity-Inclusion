@@ -1,3 +1,4 @@
+![image of certificate](https://github.com/user-attachments/assets/b646bfed-9328-44ae-896f-955b36de85fe)
 Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualisation
 Write what you think some root causes of their slow progress might be
 Here is a hint: Calculating the following measures could help to define proper KPIs:
